@@ -29,7 +29,7 @@ $total_pages = ceil($count_rows / $rows_per_page);
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 mt-4">
                 <h1>Pagination example</h1>
             </div>
         </div>
