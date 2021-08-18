@@ -16,6 +16,6 @@ The folders are named with the questions:
 
  Showing data of a database table in a pagination page with PHP and SQLite
 
- ![Pagination page sample](img/pagination-page.png)]
+ ![Pagination page sample](img/pagination-page.png)
 
 See the sample here: [pagination-page](https://www.informata.es/github/php-fragments/pagination-page/pagination-page.php)
