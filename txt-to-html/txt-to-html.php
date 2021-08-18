@@ -1,7 +1,7 @@
 <?php
 
 // Load txtfile.txt file to a string
-$file = file_get_contents('txtfile.txt');
+$file = file_get_contents('txt-file.txt');
 
 // Replace all newlines with html <br/> tag
 $file = str_replace("\n", '<br/>', $file);
