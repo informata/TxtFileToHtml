@@ -19,3 +19,14 @@ The folders are named with the questions:
  ![Pagination page sample](img/pagination-page.png)
 
 See the sample here: [pagination-page](https://www.informata.es/github/php-fragments/pagination-page/pagination-page.php)
+
+## sqlite-in-replit
+
+ Script to install SQLite support on replit.io environment.
+
+ To run the script, in the console type:
+
+```bash
+wget -O - https://raw.githubusercontent.com/informata/php-fragments/main/sqlite-in-replit/sqlite-in-replit.sh | bash
+```
+This script is an updated version of the original [this one](https://github.com/ethanpil/php-with-sqlite-on-replit).

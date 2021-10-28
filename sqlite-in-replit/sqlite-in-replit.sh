@@ -2,8 +2,7 @@
 # Install SQLite3 with PHP on Repl.it
 # 
 # Create a new Repl.it as a PHP Web Server and run this script.
-# wget -O - https://raw.githubusercontent.com/informata/php-fragments/master/sqlite-in-replit.sh | bash
-
+# wget -O - https://raw.githubusercontent.com/informata/php-fragments/main/sqlite-in-replit/sqlite-in-replit.sh | bash
 #Download, extract and cleanup required missing PHP modules (MySQL for PDO and SQLite for SQLITE!)
 wget http://archive.ubuntu.com/ubuntu/pool/main/p/php7.2/php7.2-sqlite3_7.2.24-0ubuntu0.18.04.10_amd64.deb
 for Module in $( ls php*.deb ); do dpkg -x $Module .; done
